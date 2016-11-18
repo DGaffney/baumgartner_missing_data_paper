@@ -1,0 +1,3 @@
+missing_data_total_traffic_correlates_comment.csv - is used to set r^2 for how much data is missing above or below expectations for comments
+missing_data_total_traffic_correlates_submission.csv - is used to set r^2 for how much data is missing above or below expectations for submissions
+sampled_users.csv - is used for charts about basic user stats about reddit

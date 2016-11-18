@@ -1,0 +1,573 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Abdullah%
+\ \BBA {} Wu%
+}{%
+Abdullah%
+\ \BBA {} Wu%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+abdullah2011epidemic}
+\APACinsertmetastar {%
+abdullah2011epidemic}%
+\begin{APACrefauthors}%
+Abdullah, S.%
+\BCBT {}\ \BBA {} Wu, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An epidemic model for news spreading on twitter} {An
+  epidemic model for news spreading on twitter}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2011 IEEE 23rd International Conference on Tools with
+  Artificial Intelligence} {2011 ieee 23rd international conference on tools
+  with artificial intelligence}\ (\BPGS\ 163--169).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barbaresi%
+}{%
+Barbaresi%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+barbaresi2015collection}
+\APACinsertmetastar {%
+barbaresi2015collection}%
+\begin{APACrefauthors}%
+Barbaresi, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Collection, Description, and Visualization of the German
+  Reddit Corpus} {Collection, description, and visualization of the german
+  reddit corpus}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2nd Workshop on Natural Language Processing for
+  Computer-Mediated Communication} {2nd workshop on natural language processing
+  for computer-mediated communication}\ (\BPGS\ 7--11).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barbosa%
+, Cosley%
+, Sharma%
+\BCBL {}\ \BBA {} Cesar~Jr%
+}{%
+Barbosa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+barbosa2016averaging}
+\APACinsertmetastar {%
+barbosa2016averaging}%
+\begin{APACrefauthors}%
+Barbosa, S.%
+, Cosley, D.%
+, Sharma, A.%
+\BCBL {}\ \BBA {} Cesar~Jr, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Averaging Gone Wrong: Using Time-Aware Analyses to
+  Better Understand Behavior} {Averaging gone wrong: Using time-aware analyses
+  to better understand behavior}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 25th International Conference on
+  World Wide Web} {Proceedings of the 25th international conference on world
+  wide web}\ (\BPGS\ 829--841).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Barthel%
+}{%
+Barthel%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+pew2016reddit}
+\APACinsertmetastar {%
+pew2016reddit}%
+\begin{APACrefauthors}%
+Barthel, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {How the 2016 presidential campaign is being discussed on Reddit
+  | Pew Research Center.} {How the 2016 presidential campaign is being
+  discussed on reddit | pew research center.}
+\newblock
+\APAChowpublished
+  {\url{http://www.pewresearch.org/fact-tank/2016/05/26/how-the-2016-presidential-campaign-is-being-discussed-on-reddit/}}.
+\newblock
+\APACrefnote{Accessed: 2011-11-07}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baumgartner%
+}{%
+Baumgartner%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+baumgartner2015dataset}
+\APACinsertmetastar {%
+baumgartner2015dataset}%
+\begin{APACrefauthors}%
+Baumgartner, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {I have every publicly available Reddit comment for research. ~
+  1.7 billion comments at 250 GB compressed. Any interest in this? : datasets.}
+  {I have every publicly available reddit comment for research. ~ 1.7 billion
+  comments at 250 gb compressed. any interest in this? : datasets.}
+\newblock
+\APAChowpublished
+  {\url{https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/}}.
+\newblock
+\APACrefnote{Accessed: 2011-11-07}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Benkler%
+, Roberts%
+, Faris%
+, Solow-Niederman%
+\BCBL {}\ \BBA {} Etling%
+}{%
+Benkler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+benkler2015social}
+\APACinsertmetastar {%
+benkler2015social}%
+\begin{APACrefauthors}%
+Benkler, Y.%
+, Roberts, H.%
+, Faris, R.%
+, Solow-Niederman, A.%
+\BCBL {}\ \BBA {} Etling, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social mobilization and the networked public sphere:
+  Mapping the SOPA-PIPA debate} {Social mobilization and the networked public
+  sphere: Mapping the sopa-pipa debate}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Political Communication}{32}{4}{594--624}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bollen%
+, Mao%
+\BCBL {}\ \BBA {} Zeng%
+}{%
+Bollen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+bollen2011twitter}
+\APACinsertmetastar {%
+bollen2011twitter}%
+\begin{APACrefauthors}%
+Bollen, J.%
+, Mao, H.%
+\BCBL {}\ \BBA {} Zeng, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Twitter mood predicts the stock market} {Twitter mood
+  predicts the stock market}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational Science}{2}{1}{1--8}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bond%
+\ \protect \BOthers {.}}{%
+Bond%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+bond201261}
+\APACinsertmetastar {%
+bond201261}%
+\begin{APACrefauthors}%
+Bond, R\BPBI M.%
+, Fariss, C\BPBI J.%
+, Jones, J\BPBI J.%
+, Kramer, A\BPBI D.%
+, Marlow, C.%
+, Settle, J\BPBI E.%
+\BCBL {}\ \BBA {} Fowler, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A 61-million-person experiment in social influence and
+  political mobilization} {A 61-million-person experiment in social influence
+  and political mobilization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{489}{7415}{295--298}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fire%
+\ \BBA {} Guestrin%
+}{%
+Fire%
+\ \BBA {} Guestrin%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+fire2016analyzing}
+\APACinsertmetastar {%
+fire2016analyzing}%
+\begin{APACrefauthors}%
+Fire, M.%
+\BCBT {}\ \BBA {} Guestrin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Analyzing Complex Network User Arrival Patterns and
+  Their Effect on Network Topologies} {Analyzing complex network user arrival
+  patterns and their effect on network topologies}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1603.07445}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fire%
+\ \BBA {} Guestrin%
+}{%
+Fire%
+\ \BBA {} Guestrin%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+fire2016time}
+\APACinsertmetastar {%
+fire2016time}%
+\begin{APACrefauthors}%
+Fire, M.%
+\BCBT {}\ \BBA {} Guestrin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Time Is of the Essence: Analyzing the Effect of
+  Vertex-Joining Time on Complex Network Evolution} {Time is of the essence:
+  Analyzing the effect of vertex-joining time on complex network
+  evolution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1603.07445}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hessel%
+, Schofield%
+, Lee%
+\BCBL {}\ \BBA {} Mimno%
+}{%
+Hessel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+hessel2015democrats}
+\APACinsertmetastar {%
+hessel2015democrats}%
+\begin{APACrefauthors}%
+Hessel, J.%
+, Schofield, A.%
+, Lee, L.%
+\BCBL {}\ \BBA {} Mimno, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What do Democrats do in their Spare Time? Latent
+  Interest Detection in Multi-Community Networks} {What do democrats do in
+  their spare time? latent interest detection in multi-community
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1511.03371}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hessel%
+, Tan%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Hessel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+hessel2016science}
+\APACinsertmetastar {%
+hessel2016science}%
+\begin{APACrefauthors}%
+Hessel, J.%
+, Tan, C.%
+\BCBL {}\ \BBA {} Lee, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Science, AskScience, and BadScience: On the Coexistence
+  of Highly Related Communities} {Science, askscience, and badscience: On the
+  coexistence of highly related communities}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Tenth International AAAI Conference on Web and Social
+  Media.} {Tenth international aaai conference on web and social media.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lotan%
+\ \protect \BOthers {.}}{%
+Lotan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+lotan2011arab}
+\APACinsertmetastar {%
+lotan2011arab}%
+\begin{APACrefauthors}%
+Lotan, G.%
+, Graeff, E.%
+, Ananny, M.%
+, Gaffney, D.%
+, Pearce, I.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Arab Spring| the revolutions were tweeted:
+  Information flows during the 2011 Tunisian and Egyptian revolutions} {The
+  arab spring| the revolutions were tweeted: Information flows during the 2011
+  tunisian and egyptian revolutions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International journal of communication}{5}{}{31}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Massanari%
+}{%
+Massanari%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+massanari2015gamergate}
+\APACinsertmetastar {%
+massanari2015gamergate}%
+\begin{APACrefauthors}%
+Massanari, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {\# Gamergate and The Fappening: How Reddit’s
+  algorithm, governance, and culture support toxic technocultures} {\#
+  gamergate and the fappening: How reddit’s algorithm, governance, and
+  culture support toxic technocultures}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{New Media \& Society}{}{}{1461444815608807}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Matias%
+}{%
+Matias%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+matias2016going}
+\APACinsertmetastar {%
+matias2016going}%
+\begin{APACrefauthors}%
+Matias, J\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Going Dark: Social Factors in Collective Action Against
+  Platform Operators in the Reddit Blackout} {Going dark: Social factors in
+  collective action against platform operators in the reddit blackout}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2016 CHI Conference on Human Factors
+  in Computing Systems} {Proceedings of the 2016 chi conference on human
+  factors in computing systems}\ (\BPGS\ 1138--1151).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Newell%
+\ \protect \BOthers {.}}{%
+Newell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+newell2016user}
+\APACinsertmetastar {%
+newell2016user}%
+\begin{APACrefauthors}%
+Newell, E.%
+, Jurgens, D.%
+, Saleem, H\BPBI M.%
+, Vala, H.%
+, Sassine, J.%
+, Armstrong, C.%
+\BCBL {}\ \BBA {} Ruths, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {User Migration in Online Social Networks: A Case Study
+  on Reddit During a Period of Community Unrest} {User migration in online
+  social networks: A case study on reddit during a period of community
+  unrest}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Tenth International AAAI Conference on Web and Social
+  Media.} {Tenth international aaai conference on web and social media.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pak%
+\ \BBA {} Paroubek%
+}{%
+Pak%
+\ \BBA {} Paroubek%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+pak2010twitter}
+\APACinsertmetastar {%
+pak2010twitter}%
+\begin{APACrefauthors}%
+Pak, A.%
+\BCBT {}\ \BBA {} Paroubek, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Twitter as a Corpus for Sentiment Analysis and Opinion
+  Mining.} {Twitter as a corpus for sentiment analysis and opinion
+  mining.}{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {LREc} {Lrec}\ (\BVOL~10, \BPGS\ 1320--1326).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Saleem%
+, Dillon%
+, Benesch%
+\BCBL {}\ \BBA {} Ruths%
+}{%
+Saleem%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+saleem2016web}
+\APACinsertmetastar {%
+saleem2016web}%
+\begin{APACrefauthors}%
+Saleem, H.%
+, Dillon, K.%
+, Benesch, S.%
+\BCBL {}\ \BBA {} Ruths, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Web of Hate: Tackling Hateful Speech in Online Social
+  Spaces} {A web of hate: Tackling hateful speech in online social
+  spaces}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {First Workshop on Text Analytics for Cybersecurity and
+  Online Safety (TA-COS 2016).} {First workshop on text analytics for
+  cybersecurity and online safety (ta-cos 2016).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tan%
+\ \BBA {} Lee%
+}{%
+Tan%
+\ \BBA {} Lee%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+tan2015all}
+\APACinsertmetastar {%
+tan2015all}%
+\begin{APACrefauthors}%
+Tan, C.%
+\BCBT {}\ \BBA {} Lee, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {All who wander: On the prevalence and characteristics of
+  multi-community engagement} {All who wander: On the prevalence and
+  characteristics of multi-community engagement}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 24th International Conference on
+  World Wide Web} {Proceedings of the 24th international conference on world
+  wide web}\ (\BPGS\ 1056--1066).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tufekci%
+}{%
+Tufekci%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+tufekci2014big}
+\APACinsertmetastar {%
+tufekci2014big}%
+\begin{APACrefauthors}%
+Tufekci, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Big questions for social media big data:
+  Representativeness, validity and other methodological pitfalls} {Big
+  questions for social media big data: Representativeness, validity and other
+  methodological pitfalls}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1403.7400}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
