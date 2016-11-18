@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 NOV 2016 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 NOV 2016 20:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,19 +395,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  <post_counts.png, id=16, 1933.2225pt x 702.625pt>
 File: post_counts.png Graphic file (type png)
  <use post_counts.png>
-Package pdftex.def Info: post_counts.png used on input line 54.
+Package pdftex.def Info: post_counts.png used on input line 55.
 (pdftex.def)             Requested size: 469.75502pt x 170.72408pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package caption Warning: \label without proper \caption on input line 49.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:total_missing' on page 4 undefined on input lin
-e 61.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -416,37 +408,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4]
-./paper.tex:63: Missing $ inserted.
-<inserted text> 
-                $
-l.63 ...d to a total maximum risk level of \propto
-                                                   4.18\% likelihood for mis...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./paper.tex:64: Missing $ inserted.
-<inserted text> 
-                $
-l.64 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (1871.13005pt too wide) in paragraph at lines 63--64
-\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18%\OML/cmm/m/it/12 likeliho
-odformissingatleastonecommentand \OMS/cmsy/m/n/12 / \OT1/cmr/m/n/12 4\OML/cmm/m
-/it/12 :\OT1/cmr/m/n/12 46%\OML/cmm/m/it/12 formissingatleastonesubmission:Inth
-e\OT1/cmr/m/n/12 7\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 400\OML/cmm/m/it/12 indivi
-dualset; approximately\OT1/cmr/m/n/12 2%\OML/cmm/m/it/12 ofthesampledusershada\
-OT1/cmr/m/n/12 50%\OML/cmm/m/it/12 orgreaterchanceofhavingamissingcomment; and\
-OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6%\OML/cmm/m/it/12 ofthesampl
-edusershada\OT1/cmr/m/n/12 50%\OML/cmm/m/it/12 orgreaterchanceofhavingamissings
-ubmission:Theseareonlyveryroughapproximationstohelpgetaqualitativesenseofhowthi
-smissingdataissuemaycreateanappreciableproblemforsomeformsofresearch \OMS/cmsy/
-m/n/12 ^^@
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -459,7 +420,7 @@ File: cumulative_missing_comments_time.png Graphic file (type png)
 
 <use cumulative_missing_comments_time.png>
 Package pdftex.def Info: cumulative_missing_comments_time.png used on input lin
-e 71.
+e 72.
 (pdftex.def)             Requested size: 469.75502pt x 201.31802pt.
 
 <cumulative_missing_submissions_time.png, id=30, 1349.04pt x 578.16pt>
@@ -467,7 +428,7 @@ File: cumulative_missing_submissions_time.png Graphic file (type png)
 
 <use cumulative_missing_submissions_time.png>
 Package pdftex.def Info: cumulative_missing_submissions_time.png used on input 
-line 78.
+line 79.
 (pdftex.def)             Requested size: 469.75502pt x 201.31802pt.
 
 
@@ -477,7 +438,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: log_missing_comments_time.png Graphic file (type png)
 
 <use log_missing_comments_time.png>
-Package pdftex.def Info: log_missing_comments_time.png used on input line 85.
+Package pdftex.def Info: log_missing_comments_time.png used on input line 86.
 (pdftex.def)             Requested size: 469.75502pt x 201.31802pt.
 
 
@@ -487,19 +448,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: log_missing_submissions_time.png Graphic file (type png)
 
 <use log_missing_submissions_time.png>
-Package pdftex.def Info: log_missing_submissions_time.png used on input line 92
+Package pdftex.def Info: log_missing_submissions_time.png used on input line 93
 .
 (pdftex.def)             Requested size: 469.75502pt x 201.31802pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -507,6 +462,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6 <./cumulative_missing_comments_time.png>]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -526,24 +488,26 @@ File: missing_count_total_count_correlation.png Graphic file (type png)
 
 <use missing_count_total_count_correlation.png>
 Package pdftex.def Info: missing_count_total_count_correlation.png used on inpu
-t line 113.
+t line 114.
 (pdftex.def)             Requested size: 469.75502pt x 170.72408pt.
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./log_missing_submissions_time.png> <./missing_count_total_count_correlatio
-n.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[9 <./log_missing_submissions_time.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10 <./missing_count_total_count_correlation.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -587,30 +551,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15] (./paper.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[15] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 5529 strings out of 493117
- 84772 string characters out of 6135433
+ 5530 strings out of 493117
+ 84778 string characters out of 6135433
  163625 words of memory out of 5000000
- 8906 multiletter control sequences out of 15000+600000
+ 8907 multiletter control sequences out of 15000+600000
  9324 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,11n,43p,1906b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on paper.pdf (15 pages, 755378 bytes).
+ 42i,11n,43p,1906b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb>
+Output written on paper.pdf (15 pages, 748428 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
